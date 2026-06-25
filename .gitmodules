@@ -2,9 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CRBHSF"]
+	path = CRBHSF
+	url = https://github.com/zerish12/crbhsf
 [submodule "VOWR"]
 	path = VOWR
 	url = https://github.com/zerish12/vowr
+[submodule "bewrs"]
+	path = bewrs
+	url = https://github.com/zerish12/bewrs
 [submodule "nhscancerwaits"]
 	path = nhscancerwaits
 	url = https://github.com/zerish12/nhscancerwaits
