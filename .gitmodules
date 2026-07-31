@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "AdaptiveTrialsR"]
+	path = AdaptiveTrialsR
+	url = https://github.com/zerish12/adaptivetrialsr
 [submodule "BayesSurveillance"]
 	path = BayesSurveillance
 	url = https://github.com/zerish12/bayessurveillance
