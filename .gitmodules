@@ -11,12 +11,18 @@
 [submodule "CRBHSF"]
 	path = CRBHSF
 	url = https://github.com/zerish12/crbhsf
+[submodule "DielectricWaterR"]
+	path = DielectricWaterR
+	url = https://github.com/cran/DielectricWaterR
 [submodule "VOWR"]
 	path = VOWR
 	url = https://github.com/zerish12/vowr
 [submodule "bewrs"]
 	path = bewrs
 	url = https://github.com/zerish12/bewrs
+[submodule "drasR"]
+	path = drasR
+	url = https://github.com/zerish12/drasr
 [submodule "nhscancerwaits"]
 	path = nhscancerwaits
 	url = https://github.com/zerish12/nhscancerwaits
